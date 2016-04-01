@@ -7,5 +7,5 @@ capturing a picture from camera and saving that image in particular path<br/>
 
     cordova plugin add cordova-plugin-camera
     cordova plugin add cordova-plugin-file
-    
+ 
 5. For controller code check app.js file<br/>
